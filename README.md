@@ -1,7 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=sseong-mi's Github🍀 )
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&section=header&text=sseong-mi's Github🍀&fontSize=60">
 </div>
-
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
     <a herf="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -41,5 +40,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseong-mi&layout=compact&theme=onedark) -->
 
 <div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer )
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&section=footer">
 </div>
